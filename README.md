@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I’m Adriana
+
+    👀 I’m interested in software development and cloud technologies.
+    🌱 I’m currently learning Python, FastAPI, Django, SQL, Docker, and AWS.
+    🤝 I’m passionate about backend development, building clean APIs, and scaling systems that just work.
+    💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and innovative software development.
 
 <!--
 **adiavr/adiavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
